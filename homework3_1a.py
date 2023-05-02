@@ -12,3 +12,4 @@ b = c
 print("Змінні після обміну:")
 print(a)
 print(b)
+
